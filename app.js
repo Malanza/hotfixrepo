@@ -7,6 +7,8 @@
 
 const container = document.querySelector('#container')
 
+    console.log(container);
+    
 // example()
 
 // function example() {
